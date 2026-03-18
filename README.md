@@ -95,14 +95,5 @@ covid19-data-analysis/
 * Real-time data integration
 * Country-wise forecasting
 
----
-
-## 👩‍💻 Author
-
-Harini S
-
----
-
-## ⭐ Conclusion
 
 This project demonstrates how data analysis can be used to understand and visualize pandemic trends, helping in better awareness and decision-making.
